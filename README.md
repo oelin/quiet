@@ -25,4 +25,3 @@ def add(x: int, y: int) -> int:
 
 >>> quiet(add)(1, 2)  # Returns 3.
 ```
-
